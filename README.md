@@ -29,7 +29,7 @@ To run this project, you'll need to have [Jupyter Notebook](https://jupyter.org/
 ## Correlation Analysis Report
 The final output of this project is the **Correlation Analysis Report**, which details the findings from the correlation analysis conducted in Step 4. This report provides insights into the relationships between different photographic metrics and discusses significant correlations identified during the analysis.
 
-- **Report File**: `Correlation Analysis Report.md`
+- **Report File**: `Correlation Analysis Report.ipynb`
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
